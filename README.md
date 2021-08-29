@@ -9,5 +9,5 @@ It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994; 
 
 PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
 
-PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
+PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP. 
  
